@@ -5,7 +5,7 @@ import {
   CardHeader,
 } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
-import { TestimonialProps } from "@/components/testimonial";
+import { TestimonialProps } from "@/types/components/testimonial";
 import Image from "next/image";
 
 export default function TestimonialCard({

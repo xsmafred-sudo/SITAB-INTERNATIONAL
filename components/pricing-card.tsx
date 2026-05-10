@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { PricingCardProps } from "@/components/pricing";
+import { PricingCardProps } from "@/types/components/pricing";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Check } from "lucide-react";
